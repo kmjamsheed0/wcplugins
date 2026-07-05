@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://kmjamsheed0.github.io/wcplugins/sitemap.xml
+Sitemap: https://wcplugins.xyz/sitemap.xml
